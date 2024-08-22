@@ -52,8 +52,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - **`README.md` İçeriği:** `README.md` dosyasında proje hakkında genel bilgi, gereksinimler, kurulum adımları, kullanım talimatları ve lisans bilgileri bulunur.
 - **Python Kodları:** Kod, SVS dosyalarını PNG formatına dönüştürür ve bir ses çalınarak işlemin tamamlandığını bildirir.
 
-### Adımlar:
-1. Bu dosyaları yerel projenize ekleyin.
-2. `README.md` dosyasını ihtiyacınıza göre özelleştirin ve GitHub'da projeyi paylaşın.
 
-Bu sayede, projeyi GitHub'da barındırabilir ve diğer kullanıcıların bu aracı kullanmasını kolaylaştırabilirsiniz. Eğer başka bir konuda yardıma ihtiyacınız olursa, lütfen bana bildirin!

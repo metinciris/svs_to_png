@@ -1,0 +1,6 @@
+Angle: -88.09999999999997
+Offset X: -50.149999999999935
+Offset Y: 12.050000000000013
+Transparency: 150
+Zoom Scale: 1.0954058204870827
+Rotation Center: (433, 355)

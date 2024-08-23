@@ -57,7 +57,3 @@ convert_svs_to_png(file2_path, output_path2, min_output_path2)
 
 - The `resize_width` parameter is set to 3840 pixels for generating the 4K resolution images. You can adjust this value if needed.
 - Ensure that the output paths have sufficient disk space, as the PNG files may be large.
-
-```
-
-Bu düzenlemelerle, SVS dosyalarınızı hem orijinal boyutta hem de daha küçük bir boyutta (4K) PNG formatına dönüştürebilirsiniz. README.md dosyası, kodun nasıl kullanılacağı ve gerekli ayarların nasıl yapılacağı konusunda size rehberlik edecektir. Eğer başka bir ihtiyaç olursa, bana bildirin.
